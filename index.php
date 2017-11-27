@@ -1,10 +1,10 @@
 <?php 
   include 'inc/headers.inc.php';
-  include 'inc/log.inc.php';
 
-  const PATH_LOG = 'path.log';
+define(PATH_LOG, 'path.log');
+    include 'inc/log.inc.php';
 
-
+  //const PATH_LOG = 'path.log';
 ?>
 <!DOCTYPE html>
 <html>
