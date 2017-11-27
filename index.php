@@ -4,6 +4,7 @@
 
   const PATH_LOG = 'path.log';
 
+
 ?>
 <!DOCTYPE html>
 <html>
